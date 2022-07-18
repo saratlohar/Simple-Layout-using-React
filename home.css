@@ -1,0 +1,51 @@
+.main{
+    padding-left: 50px;
+
+}
+.head{
+    color: aliceblue;
+    background-color: burlywood;
+    border: 3px solid blue;
+    width: 450px;
+}
+.column{
+    color: bisque;
+    background-color: blueviolet;
+    border: 3px solid red;
+    border-radius: 5px;
+    width: 450px;
+    margin-top: 20px;
+}
+.middle{
+    display: flex;
+    flex-direction: row;
+    padding: 30px;
+
+}
+.left{
+    margin-right: 30px;
+    border: 2px solid green;
+    color: beige;
+    background-color: brown;
+    padding: 10px;
+}
+.right{
+    border: 2px solid green;
+    color: beige;
+    background-color: brown;
+    padding: 10px;
+}
+.last{
+    display: flex;
+    flex-direction: row;
+    padding: 30px;
+
+
+}
+.last1{
+    border: 2px solid red;
+    padding: 10px;
+    color: cornflowerblue;
+    background-color: gold;
+    margin: 10px;
+}

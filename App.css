@@ -1,0 +1,20 @@
+.nav{
+  border: 2px solid red;
+  width: 450px;
+  background-color: aqua;
+  text-decoration: none;
+  list-style: none;
+}
+
+.nav ul li{
+  display: flex;
+  margin: 25px;
+  font-size: larger;
+  font: 35px;
+}
+.nav ul{
+  display: inline-flex;
+  list-style-type: none;
+  color:deeppink;
+  font-family: 'Courier New', Courier, monospace;
+}
